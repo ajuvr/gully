@@ -1,4 +1,0 @@
-gully
-=====
-
-bully @ gully
